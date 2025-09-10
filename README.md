@@ -27,6 +27,8 @@ This project showcases a complete sales data analysis workflow using Microsoft E
 - Charts & Conditional Formatting  
 - Basic ETL within Excel
 
+![Dashboard Preview](https://github.com/SarikaGithub1/Retail-Sales-Analysis-Excel-Project/blob/main/Excel%20Dashboard.png)
+
 ## 📈 Outcome
 
 This project demonstrates how Excel can be used to turn large, messy datasets into clear, actionable business insights. It highlights my ability to work with real-world data and communicate findings through visual storytelling.
